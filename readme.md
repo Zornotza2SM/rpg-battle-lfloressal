@@ -124,8 +124,8 @@ function vista() {
             <h2>⚔️ BATTLE ARENA ⚔️</h2>
             
             <div class="stats">
-                <div>HEROIA: ${________} HP</div>
-                <div>MUNSTROA: ${________} HP</div>
+                <div>HEROIA: ${vidaHeroe} HP</div>
+                <div>MUNSTROA: ${vidaMonstruo} HP</div>
             </div>
 
             <div class="fighters">
